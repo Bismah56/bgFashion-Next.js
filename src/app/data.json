@@ -1,0 +1,63 @@
+[
+  {
+    "id": "",
+    "src":"/cart1.webp",
+    "details":"BGK-01 Embroided Chiffon 3PC",
+    "price":"Rs. 16,000/-"
+  },
+  {
+    "src":"/cart2.webp",
+    "details":"BGK-02 Embroided Twill 3PC",
+    "price":"Rs. 18,000/-"
+  },
+  {
+    "src":"/cart3.webp",
+    "details":"BGK-03 Embroided Twill 3PC",
+    "price":"Rs. 12,000/-"
+  },
+  {
+    "src":"/cart4.webp",
+    "details":"BGK-04 Embroided Twill 3PC",
+    "price":"Rs. 16,000/-"
+  },
+  {
+    "src":"/cart5.webp",
+    "details":"BGK-05 Embroided Twill 3PC",
+    "price":"Rs. 14,000/-"
+  },
+  {
+    "src":"/cart6.webp",
+    "details":"BGK-06 Embroided Twill 3PC",
+    "price":"Rs. 11,000/-"
+  },
+  {
+    "src":"/cart7.webp",
+    "details":"BGK-07 Embroided Twill 3PC",
+    "price":"Rs. 7,000/-"
+  },
+  {
+    "src":"/cart8.webp",
+    "details":"BGK-08 Embroided Twill 3PC",
+    "price":"Rs. 14,000/-"
+  },
+  {
+    "src":"/cart9.webp",
+    "details":"BGK-09 Embroided Net 3PC",
+    "price":"Rs. 20,000/-"
+  },
+  {
+    "src":"/cart10.webp",
+    "details":"BGK-10 Embroided Chiffon 3PC",
+    "price":"Rs. 20,000/-"
+  },
+  {
+    "src":"/cart11.webp",
+    "details":"BGK-11 Embroided Chiffon 3PC",
+    "price":"Rs. 5,000/-"
+  },
+  {
+    "src":"/cart12.webp",
+    "details":"BGK-12 Embroided Chiffon 3PC",
+    "price":"Rs. 14,500/-"
+  }
+]
