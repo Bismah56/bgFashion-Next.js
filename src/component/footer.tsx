@@ -31,7 +31,7 @@ export default function Footer(){
         <footer className="bg-[#1d221a] text-white p-5 lg:flex flex-wrap justify-center gap-10">
             {/* Logo Video */}
             <div>
-                <video src="/elegance redefined.mp4" loop autoPlay className="h-[250px] mx-auto lg:mt-20"></video>
+                <video src="/elegance redefined.mp4" loop autoPlay muted className="h-[250px] mx-auto lg:mt-20"></video>
             </div>
 
             {/* Links */}
