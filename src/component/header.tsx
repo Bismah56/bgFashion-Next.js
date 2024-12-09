@@ -61,8 +61,8 @@ function Header(){
             </div>
 
             {/* count */}
-            <div className="bg-black text-center text-white px-1 rounded-full absolute text-xs top-6 right-2">{cartCount}</div>
-            <div className="hidden lg:block bg-black text-white px-1 rounded-full absolute text-xs top-6 right-12">{wishlistCount}</div>
+            <div className="bg-red-950 text-center text-white px-1 rounded-full absolute text-xs top-6 right-2">{cartCount}</div>
+            <div className="hidden lg:block bg-red-950 text-white px-1 rounded-full absolute text-xs top-6 right-12">{wishlistCount}</div>
         </section>
         <section>
             <ul className="hidden lg:flex merienda h-[5vh] gap-8 justify-center items-end bg-[#ffffc3]">
